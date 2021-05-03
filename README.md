@@ -1,6 +1,6 @@
 # MemShared-App
 ![](https://img.shields.io/badge/Database-MongoDB-green.svg) ![](https://img.shields.io/badge/Framework-ExpreeJS-orange.svg)
-![Tensorflow](https://img.shields.io/badge/Library-ReactJS-skyblue.svg) ![Matplotlib](https://img.shields.io/badge/Environment-NodeJS-brightgreen.svg)
+![Tensorflow](https://img.shields.io/badge/FrontEnd-ReactJS-skyblue.svg) ![Matplotlib](https://img.shields.io/badge/Backend-NodeJS-brightgreen.svg)
 
 
 
